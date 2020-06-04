@@ -1,0 +1,6 @@
+export { default as Home } from './Home'
+export { default as ActionWork } from './ActionWork'
+export { default as Approval } from './Approval'
+export { default as InitiateWork } from './InitiateWork'
+export { default as Motors } from './Motors'
+// export { default as Service } from './Motors/components'
