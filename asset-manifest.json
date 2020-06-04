@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/EMS-Solution/static/js/main.763a48f5.chunk.js",
+    "main.js.map": "/EMS-Solution/static/js/main.763a48f5.chunk.js.map",
+    "runtime-main.js": "/EMS-Solution/static/js/runtime-main.02902565.js",
+    "runtime-main.js.map": "/EMS-Solution/static/js/runtime-main.02902565.js.map",
+    "static/js/2.d09addb9.chunk.js": "/EMS-Solution/static/js/2.d09addb9.chunk.js",
+    "static/js/2.d09addb9.chunk.js.map": "/EMS-Solution/static/js/2.d09addb9.chunk.js.map",
+    "index.html": "/EMS-Solution/index.html",
+    "precache-manifest.9c2c117ccbdb77a5564a456a57fdea94.js": "/EMS-Solution/precache-manifest.9c2c117ccbdb77a5564a456a57fdea94.js",
+    "service-worker.js": "/EMS-Solution/service-worker.js",
+    "static/js/2.d09addb9.chunk.js.LICENSE.txt": "/EMS-Solution/static/js/2.d09addb9.chunk.js.LICENSE.txt",
+    "static/media/Nissan.png": "/EMS-Solution/static/media/Nissan.ed7ad403.png",
+    "static/media/Toyota.png": "/EMS-Solution/static/media/Toyota.6eebd28c.png",
+    "static/media/aboutus.png": "/EMS-Solution/static/media/aboutus.b7166327.png",
+    "static/media/alphard.png": "/EMS-Solution/static/media/alphard.d08ca70a.png",
+    "static/media/avanzamerah.png": "/EMS-Solution/static/media/avanzamerah.b598496d.png",
+    "static/media/fuso1.png": "/EMS-Solution/static/media/fuso1.ce3caf9e.png",
+    "static/media/fuso2.png": "/EMS-Solution/static/media/fuso2.342001eb.png",
+    "static/media/johnDow.jpg": "/EMS-Solution/static/media/johnDow.7ac7c797.jpg",
+    "static/media/landingimage.jpg": "/EMS-Solution/static/media/landingimage.ca9719ab.jpg",
+    "static/media/pajero-rf.png": "/EMS-Solution/static/media/pajero-rf.483466fc.png",
+    "static/media/solution.png": "/EMS-Solution/static/media/solution.3bfc4b7b.png",
+    "static/media/xpander.png": "/EMS-Solution/static/media/xpander.4562c960.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02902565.js",
+    "static/js/2.d09addb9.chunk.js",
+    "static/js/main.763a48f5.chunk.js"
+  ]
+}
