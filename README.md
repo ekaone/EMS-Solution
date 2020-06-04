@@ -18,6 +18,7 @@ This application owned by [PT. Adiraja Integrasi](https://adiraja-integrasi.com/
 - Digital Office (Saas) - [More info](https://adiraja-integrasi.com/digital-office-saas/)
 
 ## Author
-Welcome my [Blog](https://www.ekaprasetia.com/)
+Eka Prasetia 
+> 📖 [Blog](https://www.ekaprasetia.com/)
  
 
