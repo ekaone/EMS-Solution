@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ekaone.github.io/EMS-v2.1.0/",
-  "name": "ems-v2.1.0",
+  "homepage": "https://ekaone.github.io/EMS-Solution/",
+  "name": "ems-solution",
   "version": "2.1.0",
   "private": true,
   "dependencies": {
