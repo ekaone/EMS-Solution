@@ -18,7 +18,13 @@ This application owned by [PT. Adiraja Integrasi](https://adiraja-integrasi.com/
 - Digital Office (Saas) - [More info](https://adiraja-integrasi.com/digital-office-saas/)
  
 ## Screenshot
-![](./src/assets/screenshot.png "EMS Solution")
+
+<p align="center">
+  <a href="https://ekaone.github.io/EMS-Solution//">
+    <img src="./src/assets/screenshot.png" alt="EMS Solution" />
+  </a>
+</p>
+
 
 ## Author
 > Eka Prasetia
@@ -30,3 +36,4 @@ This application owned by [PT. Adiraja Integrasi](https://adiraja-integrasi.com/
 <a href="https://twitter.com/dannyeka">
   <img src="https://img.shields.io/badge/Eka-Twitter-blue" alt="Twitter" />
 </a>
+
