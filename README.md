@@ -21,4 +21,16 @@ This application owned by [PT. Adiraja Integrasi](https://adiraja-integrasi.com/
 Eka Prasetia 
 > 📖 [Blog](https://www.ekaprasetia.com/)
  
+## Screenshot
+![](./src/assets/screenshot.png "EMS Solution")
 
+## Author
+> Eka Prasetia
+
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Eka-Blog-orange" alt="Blog" />
+</a>
+
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Eka-Twitter-blue" alt="Twitter" />
+</a>
